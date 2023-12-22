@@ -52,8 +52,6 @@ Derlenmiş CSS dosyanızı projenize dahil edin ve Tailwind CSS sınıflarını 
 
 ## Bu gitHub deposunda Tailwind CSS kullanarak geliştirdiğim projemi sizinle paylaşmak istedim.
 
-Projeyi canlı olarak görmek için şu linki ziyaret edebilirsiniz: 
-https://hello-projects.netlify.app/
 
 Umarım beğenirsiniz! Geri bildirimlerinizi bekliyorum. Teşekkür ederim!
 
